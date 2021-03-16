@@ -7,5 +7,5 @@ This is a simple repository to test _**git**_ possibilities
 ## 2nd level
 some text
 
-## 3rd level
+### 3rd level
 some text
